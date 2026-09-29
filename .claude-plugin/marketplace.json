@@ -1,0 +1,18 @@
+{
+  "name": "0bull",
+  "description": "Claude plugins for 0bull, real iPhones rented by the month.",
+  "owner": {
+    "name": "0bull",
+    "email": "github@0bull.net",
+    "url": "https://0bull.net"
+  },
+  "plugins": [
+    {
+      "name": "0bull",
+      "source": "./plugins/0bull",
+      "description": "See and operate real rented iPhones through 0bull.",
+      "category": "productivity",
+      "tags": ["iphone", "ios", "device-control", "mcp"]
+    }
+  ]
+}

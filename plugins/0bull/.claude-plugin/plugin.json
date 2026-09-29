@@ -1,0 +1,15 @@
+{
+  "name": "0bull",
+  "displayName": "0bull",
+  "version": "1.0.0",
+  "description": "See and operate real rented iPhones through 0bull: screenshots, on-screen text, taps, swipes, typing, device commands, recorded macros and narrow tasks for the on-phone agent.",
+  "author": {
+    "name": "0bull",
+    "email": "github@0bull.net",
+    "url": "https://0bull.net"
+  },
+  "homepage": "https://0bull.net",
+  "repository": "https://github.com/0bull/claude-plugin",
+  "license": "MIT",
+  "keywords": ["iphone", "ios", "phone", "device-control", "mcp"]
+}

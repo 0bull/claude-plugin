@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "0bull": {
+      "type": "http",
+      "url": "https://0bull.net/mcp/phone"
+    }
+  }
+}
